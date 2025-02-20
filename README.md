@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# *Olá, queridos, meu nome é Lívia Ribeiro! *
+# *Olá, queridos, meu nome é Lívia Ribeiro!*
 - Eu estudo Tecnico em Informática Integrado ao ensino médio no Instutito Federal de Educação, Ciência e Tecnologia Baiano.
 
 
