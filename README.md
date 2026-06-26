@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # *Olá, queridos, meu nome é Lívia Ribeiro!*
-- Eu estudo Tecnico em Informática Integrado ao ensino médio no Instutito Federal de Educação, Ciência e Tecnologia Baiano.
+- Estudo Ciência da computação no INF - Universidade Federal do Goías.
+- Eu sou Tecnica em Informática Integrado ao ensino médio no Instutito Federal de Educação, Ciência e Tecnologia Baiano.
 
 
